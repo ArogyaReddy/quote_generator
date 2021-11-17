@@ -1,0 +1,24 @@
+…or create a new repository on the command line
+echo "# Automation" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/ArogyaReddy/Automation.git
+git push -u origin master
+
+
+------
+…or push an existing repository from the command line
+git remote add origin https://github.com/ArogyaReddy/Automation.git
+git branch -M master
+git push -u origin master
+
+
+------
+fontawesome ::::
+https://fontawesome.com/v5.15/icons?d=gallery&p=2
+
+https://cdnjs.com/libraries/font-awesome
+
+
