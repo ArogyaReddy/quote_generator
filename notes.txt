@@ -1,18 +1,8 @@
-…or create a new repository on the command line
-echo "# Automation" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M master
-git remote add origin https://github.com/ArogyaReddy/Automation.git
-git push -u origin master
+----
+https://heropatterns.com/
 
+https://fonts.google.com/specimen/Montserrat?query=mont
 
-------
-…or push an existing repository from the command line
-git remote add origin https://github.com/ArogyaReddy/Automation.git
-git branch -M master
-git push -u origin master
 
 
 ------
@@ -22,3 +12,11 @@ https://fontawesome.com/v5.15/icons?d=gallery&p=2
 https://cdnjs.com/libraries/font-awesome
 
 
+----
+Quotes API
+https://type.fit/api/quotes
+What you are is what you have been. What you will be is what you do now.
+
+----
+loader
+https://www.w3schools.com/howto/howto_css_loader.asp
